@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Application Developement**
 
-- 🌱 I’m currently learning **AngularJS, PHP, Python,**
+- 🌱 I’m currently learning **ReactJS, GraphQL, Django,**
 
 - 💬 Ask me about **CP, Algorithms, DSA, OOPS, DBMS, WEB Dev. etc**
 
